@@ -79,11 +79,11 @@ ul{
 }
 .lbox:target .box_img img{
     opacity: 1;
-    transition: opacity .4s linear;
+    transition: opacity .2s linear;
 }
 .wrapper-footer{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     
 }
 .image-wrapper {
